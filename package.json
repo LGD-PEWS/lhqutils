@@ -1,11 +1,12 @@
 {
-  "name": "lhqutils",
-  "version": "0.0.1",
-  "description": "",
+  "name": "lhqutils-test",
+  "version": "0.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lihaoqing",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
 }
